@@ -6,7 +6,7 @@
 
 * Default credentials for MySQL:
 	Username: root
-	Password:
+	Password: pass@word1
 
 * To login to mysql instance: Open new terminal and use following command:
       a.	sudo systemctl enable mysql
